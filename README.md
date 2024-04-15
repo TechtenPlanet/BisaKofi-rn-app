@@ -1,1 +1,1 @@
-# BisaKofi-rn-app
+# rn-template
